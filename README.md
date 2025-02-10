@@ -813,4 +813,4 @@ cv2.destroyAllWindows()
 可以調整 `threshold=0.05` 來改變異常判定的敏感度。  
 這樣的方法適合小樣本的異常檢測，並且能適應不同的環境。  
 
-完整的程式: [autoencoder.py]
+完整的程式: [autoencoder.py](autoencoder.py)
